@@ -92,6 +92,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
 
++ [Alternatives to paired bar charts](https://albert-rapp.de/posts/ggplot2-tips/15_alternative_paired_bars/15_alternative_paired_bars.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
